@@ -8,10 +8,10 @@ You can use it to quickly bootstrap your tipy web app.
 * PHP 5.5+
 * Apache 2
 * MySQL
+* Git
+* Composer
 
 ##Installation
-
-You should have [composer](https://getcomposer.org/) and [git](https://git-scm.com/) installed.
 
 ```shell
 git clone https://github.com/smetana/tipy-project myproject
