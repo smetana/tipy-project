@@ -1,6 +1,7 @@
 #tipy-project
 
-This is an empty [tipy](https://github.com/smetana/tipy) project.
+This is an application skeleton for a typical [tipy](https://github.com/smetana/tipy) project.
+You can use it to quickly bootstrap your tipy web app.
 
 ##Installation
 
