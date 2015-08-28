@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/smetana/tipy"
+        }
+    ],
+    "require": {
+        "tipy/tipy": "dev-master"
+    }
+}
