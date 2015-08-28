@@ -3,6 +3,12 @@
 This is an application skeleton for a typical [tipy](https://github.com/smetana/tipy) project.
 You can use it to quickly bootstrap your tipy web app.
 
+##Prerequisites
+
+* PHP 5.5+
+* Apache 2
+* MySQL
+
 ##Installation
 
 You should have [composer](https://getcomposer.org/) and [git](https://git-scm.com/) installed.
