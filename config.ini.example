@@ -1,3 +1,9 @@
+[Log]
+;Output log to STDERR if not specified
+;log_file =
+;Possible values are off, fatal, error, warn, info, debug
+;log_level_threshold = debug
+
 [DB] 
 db_host = localhost
 db_port =
